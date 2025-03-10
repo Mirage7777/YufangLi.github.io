@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yufang Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :  # "Your biography for the left-hand sidebar"
   location         : "China"
   employer         : "NUDT"
   pubmed           : 
