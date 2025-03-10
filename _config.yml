@@ -86,7 +86,7 @@ author:
   location         : "China"
   employer         : "NUDT"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "lyf2503386311@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Mirage7777"
   google_plus      :
   keybase          :
   instagram        :
